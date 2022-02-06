@@ -57,8 +57,6 @@ body {
 	margin: 0 0 30px 0;
 	width: 100%;
 }
-.mein {
-}
 .main-text.text {
 	text-align: justify;
 	color: slategray;
@@ -105,7 +103,4 @@ body {
 }
 .item-text {
 	text-align: right;
-}
-
-.footer {
 }
